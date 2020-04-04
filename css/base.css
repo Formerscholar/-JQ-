@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  min-width: 1196px;
+  font-size: 14px;
+}
+
+/* 视口宽度 */
+.row {
+  max-width: 1196px;
+  margin: 0 auto;
+}
